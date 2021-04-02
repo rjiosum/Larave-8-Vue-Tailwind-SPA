@@ -1,0 +1,1 @@
+export const SET_NOTICE = 'SET_NOTICE';
