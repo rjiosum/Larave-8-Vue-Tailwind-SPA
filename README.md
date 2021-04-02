@@ -1,5 +1,7 @@
 # Laravel Vue SPA boiler plate
 
+[![API Tests](https://github.com/rjiosum/Larave-8-Vue-Tailwind-SPA/actions/workflows/api-test.yml/badge.svg)](https://github.com/rjiosum/Larave-8-Vue-Tailwind-SPA/actions/workflows/api-test.yml)
+
 Laravel Vue Tailwind single page application boiler plate using laravel passport authentication with passport cookies.
 
 Laravel 8.12, laravolt avatar 4.1, intervention image 2.5, laravel passport 10.1, vue 2.6.12, vue-router 3.5.1, 
